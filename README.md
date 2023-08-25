@@ -1,5 +1,5 @@
-# Voice-Assistant \n
-Sephora - Python + OpenAI powered AI desktop assistant that talks like a human. \n
+# Voice-Assistant 
+Sephora - Python + OpenAI powered AI desktop assistant that talks like a human. <br>
 Basic functionalities include: \n
 Playing videos on youtube\n
 Getting information from Wikipedia \n
